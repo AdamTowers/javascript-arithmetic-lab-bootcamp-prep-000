@@ -1,5 +1,3 @@
-var n = 5
-
 function add(a,b) {
   return a + b;
 }
